@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>StudyViz AI</title>
+</head>
+
+<body>
+
+    <h1>StudyViz AI</h1>
+
+    <h2>Learn Smarter. Visualize Better.</h2>
+
+    <p>Welcome to my first AI project.</p>
+
+    <input type="text" placeholder="What do you want to learn?">
+
+    <br><br>
+
+    <button>Generate Study Kit</button>
+
+</body>
+</html>
